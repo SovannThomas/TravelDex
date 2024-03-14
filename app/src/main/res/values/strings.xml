@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">TravelDex</string>
+    <string name="google_map_api_key">AIzaSyC2z4itVDUdbK4LLthUCFp3cQYtXXW_C3I</string>
 </resources>
